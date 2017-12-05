@@ -1,0 +1,10 @@
+---
+title: "Personalized Medicine"
+output: html_notebook
+---
+
+Get the Kaggle data from my BigQuery Google account.
+
+```{r}
+source("get_data.R")
+```
